@@ -1,0 +1,6 @@
+Prediction,Confidence,IoU with GT,Result
+P1,0.9344,0.9309,TP
+P2,0.2148,0.1284,FP
+P3,0.11,0.1287,FP
+P4,0.0765,0.2221,FP
+P5,0.0227,0.1791,FP
