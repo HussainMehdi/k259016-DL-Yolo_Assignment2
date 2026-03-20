@@ -1,0 +1,13 @@
+Task 3 combined quick experiment (resolution + augmentation)
+Runs: 4
+Epochs each: 3
+Fraction: 0.2
+Best run: 02_resolution_res_640
+Best mAP@0.5:0.95: 0.33648
+Best mAP@0.5: 0.52037
+Best precision: 0.65778
+Best recall: 0.46473
+Best weights: /content/runs/task3_combo_quick_20260320_173747/02_resolution_res_640/weights/best.pt
+Benchmark CSV: /content/runs/task3_combo_quick_20260320_173747/task3_combo_quick_benchmark.csv
+Benchmark plot: /content/runs/task3_combo_quick_20260320_173747/task3_combo_quick_benchmarks.png
+Learning plot: /content/runs/task3_combo_quick_20260320_173747/task3_combo_quick_learning_curves.png

@@ -1,8 +1,0 @@
-best_epoch: 5
-best_score_col: None
-best_map50: None
-best_map50_95: None
-best_precision: 0.70653
-best_recall: 0.54098
-final_map50: None
-final_map50_95: None

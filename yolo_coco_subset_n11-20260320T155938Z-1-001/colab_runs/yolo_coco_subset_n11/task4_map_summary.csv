@@ -1,2 +1,0 @@
-mAP@0.5:0.95_cocoeval,mAP@0.5_cocoeval,mean_AP@0.5:0.95_table,mean_AP@0.5_table,precision_ultralytics,recall_ultralytics,weights_used,predictions_json,bar_chart_png
-0.04721365891974751,0.06928507735589136,0.343372064870891,0.5038914716792099,0.7098832435318694,0.5422017379712454,/content/runs/yolo_coco_subset_n11/weights/best.pt,/content/runs/detect/val8/predictions.json,/content/runs/yolo_coco_subset_n11/task4_per_class_ap_barchart.png

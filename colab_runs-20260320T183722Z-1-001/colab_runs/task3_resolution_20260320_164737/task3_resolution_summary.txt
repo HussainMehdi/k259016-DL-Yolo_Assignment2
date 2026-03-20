@@ -1,0 +1,11 @@
+Experiment type: resolution
+Runs: 3
+Best setting: imgsz_800
+Best mAP@0.5:0.95: 0.43146
+Best mAP@0.5: 0.63593
+Best precision: 0.74491
+Best recall: 0.53943
+Best weights: /content/runs/task3_resolution_20260320_164737/03_imgsz_800/weights/best.pt
+Benchmark CSV: /content/runs/task3_resolution_20260320_164737/task3_resolution_benchmark.csv
+Benchmark plot: /content/runs/task3_resolution_20260320_164737/task3_resolution_benchmarks.png
+Learning curves: /content/runs/task3_resolution_20260320_164737/task3_resolution_learning_curves.png
